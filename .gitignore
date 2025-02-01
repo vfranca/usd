@@ -1,0 +1,6 @@
+# virtualenv
+env/
+# pyinstaller
+build/
+dist/
+*.spec
